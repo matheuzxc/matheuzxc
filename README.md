@@ -32,7 +32,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
 ![Scilab](https://img.shields.io/badge/-Scilab-0D1117?style=for-the-badge&logo=scilab&labelColor=0D1117)&nbsp;
 ![Kicad](https://img.shields.io/badge/-Kicad-0D1117?style=for-the-badge&logo=kicad&labelColor=0D1117)&nbsp;
 ![Altium](https://img.shields.io/badge/-Altium-0D1117?style=for-the-badge&logo=altiumdesigner&labelColor=0D1117)&nbsp;
