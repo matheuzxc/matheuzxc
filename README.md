@@ -12,7 +12,7 @@
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  <a href="www.linkedin.com/in/matheus-nunes-franco-603918237" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
