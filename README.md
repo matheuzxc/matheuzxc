@@ -1,5 +1,8 @@
 
-  
+<div align="right" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=matheuzxc&color=6495ED" style="border: 1px solid #ccc; padding: 10px; border-radius: 10px;" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Nunes+Franco;I'm+25+years+old;I+am+from+Joinville,+SC;I+study+Mechatronic+Engineering+at+UFSC;Be+Welcome!)](https://git.io/typing-svg) 
 
 <div align="center">  
@@ -12,7 +15,6 @@
   <a href="https://www.linkedin.com/in/matheus-nunes-franco-60391823/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
 
   <a href="http://lattes.cnpq.br/8398674236419271" target="_blank">
     <img src="https://img.shields.io/badge/-Lattes-%230077B5?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo Lattes">
@@ -34,18 +36,13 @@
 ![Scilab](https://img.shields.io/badge/-Scilab-0D1117?style=for-the-badge&logo=scilab&labelColor=0D1117)&nbsp;
 ![Kicad](https://img.shields.io/badge/-Kicad-0D1117?style=for-the-badge&logo=kicad&labelColor=0D1117)&nbsp;
 ![Altium](https://img.shields.io/badge/-Altium-0D1117?style=for-the-badge&logo=altiumdesigner&labelColor=0D1117)&nbsp;
-![STM Cube IDE](https://img.shields.io/badge/-STM+Cube+IDE-0D1117?style=for-the-badge&logo=stmicroelectronics&labelColor=0D1117)&nbsp;
+![STM Cube IDE](https://img.shields.io/badge/-STM%20Cube%20IDE-0D1117?style=for-the-badge&logo=stmicroelectronics&labelColor=0D1117)&nbsp;
  
 ### Studying in this moment:
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vhdl](https://img.shields.io/badge/-Vhdl-0D1117?style=for-the-badge&logorust=&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-  <p align="center"><b>Visitors Count</b></p>  
-  <a href="https://profile-counter.glitch.me/matheuzxc/count.svg" target="_blank">
-    <img src="https://profile-counter.glitch.me/matheuzxc/count.svg" alt="Visitors Count">
-  </a>
-</div>
+
 
 
 
