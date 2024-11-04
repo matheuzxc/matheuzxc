@@ -38,10 +38,10 @@
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheuzxc}/count.svg" /></p> 
-<br></div>
+  <a href="https://profile-counter.glitch.me/{matheuzxc}/count.svg">
+    <img src="https://img.shields.io/badge/Visitors-{matheuzxc}-blue?style=for-the-badge" alt="Visitors Count">
+  </a>
+</div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
